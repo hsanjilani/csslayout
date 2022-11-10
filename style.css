@@ -1,0 +1,12 @@
+body{
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.logo{
+    width: 207px;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+
